@@ -54,5 +54,8 @@ body {
 @media (min-width: 430px) {
 	.wrapper {
 		width: 340px;
+		.main {
+			margin-top: 15%;
+		}
 	}
 }

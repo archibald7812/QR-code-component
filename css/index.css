@@ -77,5 +77,8 @@ body {
   .wrapper {
     width: 340px;
   }
+  .wrapper .main {
+    margin-top: 15%;
+  }
 }
 /*# sourceMappingURL=index.css.map */
